@@ -26,7 +26,7 @@ body {
 }
 .navigation .logo {
   background-color: #283526;
-  padding: 1.4rem 0.9rem;
+  padding: 1.3rem 0.9rem;
   color: white;
   font-size: 13px;
   font-weight: 500;
@@ -81,6 +81,7 @@ body {
   width: 18rem;
   text-align: center;
   border-radius: 3px;
+  margin-bottom: 1rem;
 }
 .hero .hero-btn .btn1:hover {
   background-color: #283526;
