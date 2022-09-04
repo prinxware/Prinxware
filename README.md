@@ -1,13 +1,19 @@
-### Hi there 👋
+ Hi there 👋
 
-##ABOUT ME--
-I'm Prince Edc Owoh, a self-taught frontend Web-developer and designer, Googler, and student studying computer Science Education.
+ABOUT ME--
+I'm Prince Edc Owoh, a self-taught frontend Web-developer and designer, Googler, 
+and student studying computer Science Education.
+
 Bringing projects to life with coding and designs from the future.
 I am experienced in developing responsive web applications, including full front-end design.
 
-I am a well-organized person, a problem solver, and an independent developer with a creative mindset. I love creating smart and simple interfaces and designs for websites and apps.
+I am a well-organized person, a problem solver, and an independent developer with a creative mindset.
+I love creating smart and simple interfaces and designs for websites and apps.
 
-PERSONAL LIFE: I'm a lover of music, TV series, shows and pets. I enjoy watching some sports activities like table tennis, UFC fights, and boxing. I'm a big fan of everything tech. 
+PERSONAL LIFE: I'm a lover of music, TV series, shows and pets. 
+I enjoy watching some sports activities like table tennis, UFC fights, and boxing. I'm a big fan of everything tech. 
+
+
 
 - 🔭 I’m currently working on a web app(Afro!ARTS) an art gallery and marketplace website.. using web technologies Astro, JS, Sass...
 
