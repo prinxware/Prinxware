@@ -1,6 +1,9 @@
  Hi there 👋
+ 
+----
+WEB DEVELOPER / DESIGNER
+----
 
-ABOUT ME--
 I'm Prince Edc Owoh, a frontend Web-developer and designer, Googler, Computer Science student.
 Bringing projects to life with coding and designs from the future.
 
