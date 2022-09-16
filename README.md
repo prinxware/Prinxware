@@ -4,8 +4,7 @@
 WEB DEVELOPER / DESIGNER
 ----
 
-I'm Prince Edc Owoh, a frontend Web-developer and designer, Googler, Computer Science student.
-Bringing projects to life with coding and designs from the future.
+I'm Prince Edc Owoh, a frontend Web developer and designer, Googler. Bringing projects to life with coding and designs from the future.
 
 I am experienced in developing responsive web applications, including full front-end design.
 Well-organized person, a problem solver, and an independent developer with a creative mindset.
@@ -18,14 +17,14 @@ I enjoy watching some sports activities like table tennis, UFC fights, and boxin
 
 - 🔭 I’m currently working on a web app(Afro!ARTS) an art gallery and marketplace website...
 
-- 🌱 I’m currently learning ASTRO, Alpine.js AND JS-ES6...
+- 🌱 I’m currently learning ASTRO, Svelte...
 
 - 👯 I’m looking to collaborate on any project you got going.....
 
-- 💬 Ask me about ASTRO, SASS, JS, FIGMA...
+- 💬 Ask me about ASTRO, SASS, Svelte, FIGMA...
 
 
-- 📫 Reach me: Princeowoh213@outlook.com...
+- 📫 Contact me: Princeowoh213@outlook.com...
 
 <!--
 **PRINXWARE/Prinxware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
