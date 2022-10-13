@@ -10,21 +10,21 @@ I am experienced in developing responsive web applications, including full front
 Well-organized person, a problem solver, and an independent developer with a creative mindset.
 I love creating smart and simple interface designs for websites and apps.
 
-PERSONAL LIFE: I'm a lover of music, TV series, shows and pets. 
-I enjoy watching some sports activities like table tennis, UFC fights, and boxing. I'm a big fan of everything tech. 
+I'm a lover of music, TV series, shows and pets. I enjoy watching some sports activities like table tennis, UFC fights, and boxing. I'm a big fan of everything tech. 
 
 
 
 - 🔭 I’m currently working on a web app(ART Gallery) and marketplace website...
 
-- 🌱 I’m currently learning ASTRO, AlpineJs, Javascript Es6...
+- 🌱 I’m currently learning Javascript{Es6}, Svelte...
 
 - 👯 I’m looking to collaborate on any project you got going.....
 
-- 💬 Ask me about ASTRO, JS, AlpineJs, Svelte, FIGMA, Bulmacss...
+- 💬 Ask me about ASTRO, Javascript, AlpineJs, Svelte, FIGMA...
 
 
 - 📫 Contact me: Princeowoh213@outlook.com...
+- 📫 https://prinxware.netlify.app
 
 <!--
 **PRINXWARE/Prinxware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
