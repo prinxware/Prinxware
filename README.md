@@ -1,29 +1,23 @@
  Hi there 👋
  
 ----
-WEB DEVELOPER / DESIGNER
+WEB DEVELOPER & DESIGNER
 ----
 
-I'm Prince Edc Owoh, a frontend developer and designer, Googler. Bringing projects to life with coding and designs from the future.
+I'm Prince Edc Owoh, a frontend developer and designer,Googler. Bringing projects to life with coding and designs from the future.
 
 I am experienced in developing responsive web applications, including full front-end design.
-Well-organized person, a problem solver, and an independent developer with a creative mindset.
-I love creating smart and simple interface designs for websites and apps.
-
-I'm a lover of music, TV series, shows and pets. I enjoy watching some sports activities like table tennis, UFC fights, and boxing. I'm a big fan of everything tech. 
-
+I love creating smart and simple interface designs for web and apps.
 
 
 - 🔭 I’m currently working on a web app(ART Gallery) and marketplace website...
 
-- 🌱 I’m currently learning Javascript{Es6}, Svelte...
-
-- 👯 I’m looking to collaborate on any project you got going.....
+- 🌱 I’m currently learning Javascript{Es6}, Vuejs...
 
 - 💬 Ask me about ASTRO, Javascript, AlpineJs, Svelte, FIGMA...
 
-
 - 📫 Contact me: Princeowoh213@outlook.com...
+
 - 📫 https://prinxware.netlify.app
 
 <!--
