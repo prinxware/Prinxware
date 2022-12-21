@@ -9,6 +9,7 @@ I'm Prince Edc Owoh, a frontend developer / designer and Googler. Bringing proje
 I am experienced in developing responsive web applications, including full front-end design.
 I love creating smart and minimal interface designs for web and mobile.
 
+⚡ Co-founder @ https://Gluchat.com
 
 - 🔭 I’m currently working on a webapp, an ART Gallery and marketplace platform...
 
