@@ -4,9 +4,9 @@
 DEVELOPER & DESIGNER
 ----
 
-I'm PrinX, a developer / designer and Googler. Bringing projects to life with coding and designs from the future.
+I'm PrinX, a programmer, UI developer and designer, Googler. Bringing projects to life with smart coding and designs.
 
-I am experienced in developing responsive applications that run across different platforms, including full front-end design.
+I am experienced in developing cross-platform designs and applications. including full front-end design.
 I love creating smart and minimal interfaces.
 
 ⚡ Co-founder @ https://Gluchat.com
