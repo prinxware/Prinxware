@@ -1,21 +1,20 @@
  Hi there 👋
  
 ----
-DEVELOPER & DESIGNER
+DEVELOPER 
 ----
 
-I'm PrinX, a programmer, UI developer and Googler. Bringing projects to life with smart coding concepts and designs.
+I'm PrinX, a programmer, UI Designer. Bringing projects to life with codes and designs.
 
-I am experienced in developing cross-platform applications with flutter. including full front-end design.
-I love creating smart and minimal interfaces.
+⚡ Co-founder Gluchat
+⚡ Co-founder Dynamix
 
-⚡ Co-founder @ https://Gluchat.com
 
-- 🔭 I’m currently working on a program, an ART Gallery and marketplace platform...
+- 🌱 I’m currently learning Python & AI..
 
-- 🌱 I’m currently learning Flutter and Dart..
+- 💬 MY SKILLS: Python | Javascript | Claude & Gpt |  Html5 | Css-Sass..
 
-- 💬 MY SKILLS: Dart-Flutter | Javascript | Html5 | Css-Sass | FIGMA...
+- 💬 MY Tools: Claude | Gpt | Gemini |  Figma 
 
 - 📫 CONTACT ME: Princeowoh213@outlook.com...
 
