@@ -12,9 +12,9 @@ I'm PrinX, a programmer, UI Designer. Bringing projects to life with codes and d
 
 - 🌱 I’m currently learning Python & AI..
 
-- 💬 MY SKILLS: Python | Javascript | Claude & Gpt |  Html5 | Css-Sass..
+- 💬 MY SKILLS: Python | Javascript | NextJs| TailwindCss | Html5 | Css-Sass..
 
-- 💬 MY Tools: Claude | Gpt | Gemini |  Figma 
+- 💬 MY Tools: Claude | Gpt |  Figma 
 
 - 📫 CONTACT ME: Princeowoh213@outlook.com...
 
