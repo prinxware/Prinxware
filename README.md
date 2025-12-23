@@ -4,7 +4,7 @@
 DEVELOPER 
 ----
 
-I'm PrinX, a programmer, UI Designer. Bringing projects to life with codes and designs.
+Programmer, UI Designer. 
 
 ⚡ Co-founder Gluchat
 ⚡ Co-founder Dynamix
