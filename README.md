@@ -1,4 +1,4 @@
- Hi there 👋
+Hi there 👋
  
 ----
 DEVELOPER 
@@ -7,7 +7,7 @@ DEVELOPER
 Programmer, UI Designer. 
 
 ⚡ Co-founder Gluchat
-⚡ Co-founder Dynamix web
+⚡ Co-founder Dynamix web 
 
 
 - 🌱 I’m currently learning Python & AI..
