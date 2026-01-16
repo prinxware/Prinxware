@@ -7,10 +7,10 @@ DEVELOPER
 Programmer, UI Designer. 
 
 ⚡ Co-founder Gluchat
-⚡ Co-founder Dynamix web 
+⚡ Co-founder Dynamix-DWS 
 
 
-- 🌱 I’m currently learning Python & AI..
+- 🌱 I’m currently learning Python lang..
 
 - 💬 MY SKILLS: Javascript | NextJs | TailwindCss | Python
 
