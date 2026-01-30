@@ -7,7 +7,7 @@ DEVELOPER
 Programmer, UI Designer. 
 
 ⚡ Co-founder Gluchat
-⚡ Co-founder Dynamix-DWS 
+⚡ Founder Dynamix web solutions 
 
 
 - 🌱 I’m currently learning Python lang..
