@@ -1,8 +1,8 @@
 ----
-Hello! 
+About Me
 ----
 
-I'm a Web developer, UI Designer. 
+Hi! I'm a Web developer, UI Designer. 
 
 ⚡Founder Dynamix web solutions 
 
