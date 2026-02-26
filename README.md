@@ -1,10 +1,10 @@
 ----
-DEVELOPER 
+Hello! 
 ----
 
-Web developer, UI Designer. 
+I'm a Web developer, UI Designer. 
 
-⚡ Founder Dynamix web solutions 
+⚡Founder Dynamix web solutions 
 
 
 - 💬 SKILLS: Javascript | NextJs | TailwindCss | Python | Figma | Claude 
