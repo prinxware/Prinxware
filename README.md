@@ -1,20 +1,13 @@
-Hi there 👋
- 
 ----
 DEVELOPER 
 ----
 
-Programmer, UI Designer. 
+Web developer, UI Designer. 
 
-⚡ Co-founder Gluchat
 ⚡ Founder Dynamix web solutions 
 
 
-- 🌱 I’m currently learning Python lang..
-
-- 💬 MY SKILLS: Javascript | NextJs | TailwindCss | Python
-
-- 💬 MY Tools: Claude | Gpt |  Figma 
+- 💬 SKILLS: Javascript | NextJs | TailwindCss | Python | Figma | Claude 
 
 - 📫 CONTACT ME: Princeowoh213@outlook.com...
 
